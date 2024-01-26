@@ -18,4 +18,4 @@ Data Visualization: Created Interactive dashboards to the answer the business pr
 Final Conclusion to Improve Vrinda Store Sales:
 Target women customers of age group (30–49 years old) who live in Maharashtra, Karnataka and UP by showing ads, offers, and coupons available on Amazon, Flipkart and Myntra to boost sales
 
-Various kind of questions related to Sales of 2022 can be easily answered with the help of Interactive Dashboards.
+Numerous  questions related to Sales of 2022 can be easily answered with the help of Interactive Dashboards.
