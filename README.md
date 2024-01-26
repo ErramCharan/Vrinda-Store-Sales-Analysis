@@ -1,6 +1,6 @@
 # Vrinda-Store-Sales-Analysis
 Objective: Vrindra Store wants to create an annual sales report for 2022. So that Vrinda can understand their customers and grow more sales in 2023.
-In this Data analysis we are providing solutions for questions like
+In this Data analysis performed on 31042 rows of data(orders) and interactive dashboards created using Excel to answer the BFD
 >compare the sales and order using single chart
 >which month got the highest sales and orders?
 >who purchased more- men or women in 2022?
